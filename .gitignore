@@ -4,6 +4,8 @@
 /node_modules
 /server/node_modules
 /server/.env
+/src/assets
+/src/data
 
 
 
